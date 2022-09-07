@@ -2,7 +2,7 @@
 Notebook implementation of : 
 Muhammad Ziyad, Kenrick Tjandra, Zulvah, Mushonnifun Faiz Sugihartanto, Mansur Arief
 
-(TBA ArXiv Link)
+[ArXiv:2209.02678](https://arxiv.org/pdf/2209.02678.pdf)
 
 
 ## Result:
